@@ -3,6 +3,7 @@
  * LeetCode 1. Two Sum
  * October 24, 2021
  * Difficulty: Easy
+ * Language: Java
  */
 
 import java.util.*;
